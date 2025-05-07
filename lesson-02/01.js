@@ -17,4 +17,4 @@ let isAccess
 
 // your code
 
-return isAccess = (isAdmin || isVerifiedUser) && (hasSpecialPermission || hasTemporaryPass);
+isAccess = (isAdmin || isVerifiedUser) && (hasSpecialPermission || hasTemporaryPass);

@@ -19,5 +19,3 @@ if (isWinningDouble) {
 } else {
   console.log('Не выигрышный дубль.')
 }
-
-return isWinningDouble;

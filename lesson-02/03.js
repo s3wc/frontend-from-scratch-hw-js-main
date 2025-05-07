@@ -23,5 +23,3 @@ switch (score) {
         grade = 'A'
         break;
 }
-
-return grade;

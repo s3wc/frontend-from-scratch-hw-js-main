@@ -12,5 +12,3 @@ while (i <= 10) {
     factorial *= i;
     i++;
 }
-
-return factorial;
