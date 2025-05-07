@@ -13,3 +13,5 @@ while (i <= 20) {
     }
     i++;
 }
+
+return sum;

@@ -8,3 +8,5 @@ while (i <= 20) {
     sum += i;
     i++;
 }
+
+return sum;
