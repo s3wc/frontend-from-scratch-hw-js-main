@@ -6,8 +6,8 @@
 */
 
 // your code
-let factorial
-var i = 1;
+let factorial;
+let i = 1;
 while (i <= 10) {
     factorial *= i;
     i++;
