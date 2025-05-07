@@ -15,6 +15,6 @@ if (score <= 49) {
     grade = 'C';
 } else if (score <= 89) {
     grade = 'B';
-} else {
+} else if (score <= 100) {
     grade = 'A';
 }
